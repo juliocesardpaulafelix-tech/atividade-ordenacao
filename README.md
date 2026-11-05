@@ -21,5 +21,5 @@ Cole aqui o print da execução.
 1. João Francisco Cabral de Oliveira — Líder
 2. Igor Dayan da Silva Martins.
 3. Pedro Oliveira Daleprani.
-4. Julio César de Paula Felix
-5. Nathan Jonathan Amaral Moreira
+4. Julio César de Paula Felix.
+5. Nathan Jonathan Amaral Moreira.
