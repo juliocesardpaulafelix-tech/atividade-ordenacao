@@ -14,9 +14,6 @@ Se o intervalo for muito grande, o programa usa automaticamente um LSD Radix Sor
 `clock()` envolve **apenas** a função `ordenar()`. Leitura do arquivo e verificação ficam fora.
 A verificação confere ordem crescente e preservação dos elementos (soma + hash).
 
-## Resultado (print do terminal)
-Cole aqui o print da execução.
-
 ## Equipe
 1. João Francisco Cabral de Oliveira — Líder
 2. Igor Dayan da Silva Martins.
